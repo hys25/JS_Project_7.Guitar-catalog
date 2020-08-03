@@ -1,6 +1,7 @@
 :root {
-          --color-light: #ffffff;
-          --color-wight: #ffffff;
+          --color-light: #f8f9fa;
+          --color-white: #fff;
+          --color-unaccent: #808080;
 
           --spacing-small: 10px;
           --spacing-medium: 15px;
@@ -11,7 +12,7 @@
           --box-shadow: 
                     0 16px 24px 2px rgba(33,37,41,.02), 
                     0 6px 30px 5px rgba(33,37,41,.04), 
-                    0 8px 10px -5px rgba(33,37,41,.1); 
+                    0 8px 10px -5px rgba(33,37,41,.1);
 }
 
 * {
