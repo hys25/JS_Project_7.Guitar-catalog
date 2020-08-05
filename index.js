@@ -15,10 +15,11 @@ fetch('server/catalog.json')
                     setTimeout(() => {
                               spinnerPage.handleClear();
                               render();
-                    }, 500);
+                    }, 100);
           })
           .catch(error => {
-                    console.log(error);
+                    spinnerPage.handleClear();
+                    errorPage.render();
           });
 
 
