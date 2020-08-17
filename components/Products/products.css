@@ -42,3 +42,23 @@
           border: 1px solid  transparent;
           background-image: var(--linear-gradient);
 }
+
+
+
+@media(max-width: 1199px) {
+          .products-container{
+                    min-width: 100vw;
+          }
+}
+
+@media(max-width: 769px) {
+          .products-container{
+                    min-width: 100vw;
+          }
+}
+
+@media(max-width: 415px) {
+          .products-container{
+                    min-width: 100vw;
+          }
+}
