@@ -12,3 +12,5 @@ This is a catalog of products, products are loaded dynamically from a JSON file.
 -  all selected items and their amount are shown in the shopping cart
 -  the user is notified of an error
 -  preloader is provided
+
+The site is **adaptive** for mobile phone, tablet and desktop.

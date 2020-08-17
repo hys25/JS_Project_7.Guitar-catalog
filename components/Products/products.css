@@ -43,8 +43,6 @@
           background-image: var(--linear-gradient);
 }
 
-
-
 @media(max-width: 1199px) {
           .products-container{
                     min-width: 100vw;
